@@ -1,4 +1,4 @@
-### Hi there 👋 Im a Jamal Refaideen
+### Hi 👋 Im Refai
 
 <!--
 **jamalrefaideen/jamalrefaideen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
